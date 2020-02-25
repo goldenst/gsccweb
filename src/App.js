@@ -7,7 +7,9 @@ function App() {
   return (
     <div className="App">
     <Navbar />
-     Golden State Car Care
+    <div className='container'>
+    Golden State Car Care
+    </div>
     </div>
   );
 }
